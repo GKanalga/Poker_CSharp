@@ -1,0 +1,40 @@
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\bin\Debug\net6.0-windows\Poker.exe
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\bin\Debug\net6.0-windows\Poker.dll.config
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\bin\Debug\net6.0-windows\Poker.deps.json
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\bin\Debug\net6.0-windows\Poker.runtimeconfig.json
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\bin\Debug\net6.0-windows\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\bin\Debug\net6.0-windows\Poker.pdb
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.csproj.AssemblyReference.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.Form1.resources
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.Properties.Resources.resources
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.csproj.GenerateResource.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.AssemblyInfoInputs.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.AssemblyInfo.cs
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.csproj.CoreCompileInputs.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\refint\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.pdb
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.genruntimeconfig.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\ref\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker\Poker\obj\Debug\net6.0-windows\Poker.Regel.resources
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\bin\Debug\net6.0-windows\Poker.exe
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\bin\Debug\net6.0-windows\Poker.dll.config
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\bin\Debug\net6.0-windows\Poker.deps.json
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\bin\Debug\net6.0-windows\Poker.runtimeconfig.json
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\bin\Debug\net6.0-windows\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\bin\Debug\net6.0-windows\Poker.pdb
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.csproj.AssemblyReference.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.Form1.resources
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.Properties.Resources.resources
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.Regel.resources
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.csproj.GenerateResource.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.AssemblyInfoInputs.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.AssemblyInfo.cs
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.csproj.CoreCompileInputs.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\refint\Poker.dll
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.pdb
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\Poker.genruntimeconfig.cache
+C:\Users\lucak\OneDrive - Kantonsschule Baden\. BBB i2a\Lernatelier\Poker 2\Poker\obj\Debug\net6.0-windows\ref\Poker.dll
